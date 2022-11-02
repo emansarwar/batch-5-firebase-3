@@ -1,0 +1,21 @@
+.header{
+    /* margin-top: 0px; */
+    padding-bottom: 8.5px;
+    padding-top: 30px;
+    border: solid rgb(232, 230, 230);
+    background-color: rgb(231, 230, 230);
+}
+
+.header a{
+    /* margin-right: 1px; */
+    /* margin-top: 20px; */
+    text-decoration: none;
+    color: rgb(33, 12, 12);
+    border: 2px solid rgb(247, 240, 240);
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(252, 218, 251);
+}
+.header a:hover{
+    background-color: rgb(162, 229, 191);
+}

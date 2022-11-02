@@ -1,0 +1,23 @@
+.login{
+    width: 50%;
+    background-color: rgba(235, 208, 232, 0.719);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+
+}   
+.login-title{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(22, 155, 144);
+}
+.googlesign{
+    width: 50%;
+    background-color: rgba(238, 219, 239, 0.866);
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.login-input-field{
+    width: 49%;
+}
